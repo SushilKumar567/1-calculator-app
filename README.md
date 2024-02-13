@@ -1,3 +1,4 @@
-# 1-calculator-app
+# 1 Calculator App
 This is a simple calulator app for the general calulations.
-I have mainely used HTML5 & CSS3 to build the app.
+<br>
+I have mainely used HTML5 & CSS3 to build this app.
